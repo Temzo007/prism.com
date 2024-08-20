@@ -1,0 +1,44 @@
+body{
+    background: url('prism3.png'), rgba(152, 180, 204, 0.498) ;
+    background-size: cover;
+    
+    }
+    .aa h1{
+    color: gold;
+    margin-top: 10px;
+    }
+    
+    .aa{
+    background: radial-gradient(rgba(128, 0, 128, 0.253), darkblue);
+    width: 250px;
+    height: 350px;
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+    text-align: center;
+    }
+    input{
+    margin-top: 20px;
+    border-radius: 15px;
+    border: black 2.5px solid;
+    height: 20px;
+    }
+    .aa button{
+    margin-top: 35px;
+    background: gold;
+    color: black;
+    border: black 2px solid;
+    border-radius: 15px;
+    height: 25px;
+    width: 110px;
+    }
+    .aa h4{
+    color: white;
+    margin-top: 30px;
+    
+    }
+    .aa a{
+    color: yellow;
+    }
